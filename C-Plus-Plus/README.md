@@ -150,6 +150,7 @@
 - [Largest rectangular area under histogram](stack/Largest_rect_area_under_histogram.cpp)
 - [Stock Span Problem](stack/Stock_span_problem.cpp)
 - [Evaluate string expression BODMAS](stack/string_expression_evaluation_bodmas.cpp)
+- [Largest Rectangular Area in Histogram Efficient Sol.](stack/Largest_Rectangular_Area_in_Histogram.cpp)
 
 ## Heap based problems
 
